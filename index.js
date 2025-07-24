@@ -4,7 +4,7 @@ const ffmpeg = require('fluent-ffmpeg');
 const fs = require('fs');
 const { exec } = require('child_process');
 
-const bot = new Telegraf('7328103895:xxxxx'); // Replace with your Telegram Bot Token
+const bot = new Telegraf('7574903711:AAHHTcBwV81snxaqDUddKe-qH5tg_lynfOU'); // Replace with your Telegram Bot Token
 
 // Command to start the bot
 bot.start((ctx) => {
